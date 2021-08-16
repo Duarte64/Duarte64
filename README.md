@@ -1,10 +1,10 @@
-### About Me 👋
+## About Me 👋
 
 - 🎓 I'm a Computer Science Student at [Universidade Federal do ABC](https://www.usnews.com/education/best-global-universities/universidade-federal-do-abc-ufabc-528920);
 
 - 🔭 I’m currently working at Itaú Unibanco.
 
-### Skills
+## Skills
 
 - Front-End
 
@@ -24,8 +24,16 @@
 ![Apache Hive](https://img.shields.io/badge/-Hive-FDEE21?logo=apache-hive&logoColor=black&style=for-the-badge)
 ![Teradata](https://img.shields.io/badge/-Teradata-F37440?logo=teradata&logoColor=white&style=for-the-badge)
 
-### Studying
+## Studying
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-CSharp-E34F26?style=for-the-badge&logo=c#&logoColor=white)
+
+<hr>
+
+### Gabriel Duarte 🧑‍💻
+
+[![Gmail Badge](https://img.shields.io/badge/-gabriel.duartepaz@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:gabriel.duartepaz@gmail.com)](mailto:gabriel.duartepaz@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-duarte-da-paz-figueiredo-3aaa35197/)](https://www.linkedin.com/in/gabriel-duarte-da-paz-figueiredo-3aaa35197/) 
