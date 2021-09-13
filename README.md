@@ -22,7 +22,7 @@
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![C#](https://img.shields.io/badge/-CSharp-E34F26?style=for-the-badge&logo=c#&logoColor=white)
+![C#](https://img.shields.io/badge/-VUE-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black)
 
 ## Github Stats
 
