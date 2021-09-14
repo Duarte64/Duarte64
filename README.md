@@ -26,7 +26,12 @@
 
 ## Github Stats
 
-![Gabriel Duarte github stats](https://github-readme-stats.vercel.app/api?username=Duarte64&count_private=true&theme=radical)
+<div>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duarte64&count_private=true&theme=radical"/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duarte64&layout=compact&theme=radical"/>
+</div>
 
 <hr>
 
