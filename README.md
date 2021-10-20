@@ -10,7 +10,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![JAVA](https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 - DataScience & BigData Development
@@ -20,9 +19,7 @@
 
 ## Studying
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![C#](https://img.shields.io/badge/-VUE-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black)
 
 ## Github Stats
 
