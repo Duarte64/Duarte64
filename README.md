@@ -13,7 +13,6 @@
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Preact](https://camo.githubusercontent.com/8d63de8d12345c56bc8869740dab7a5b31b4cff51cc16fa14cbecd2cc2bbeb46/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d50726561637426636f6c6f723d363733414238266c6f676f3d507265616374266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 - Back-End Skills
 
